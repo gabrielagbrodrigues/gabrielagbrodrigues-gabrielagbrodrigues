@@ -36,7 +36,7 @@
 ---
 
 ### 📫 Como me encontrar
-- 💌 Email: gabriela@email.com (exemplo, edite aqui)
+- 💌 Email: gabriela.rodriguessilva@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielarodriguesgbr95)
 
 ---
