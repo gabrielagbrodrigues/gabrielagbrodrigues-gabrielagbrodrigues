@@ -29,9 +29,6 @@
 
 
 
-### 📊 Estatísticas GitHub
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielagbrodrigues&show_icons=true&theme=radical)
-
 ---
 
 ### 📫 Como me encontrar
